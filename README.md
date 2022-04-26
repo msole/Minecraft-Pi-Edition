@@ -1,5 +1,3 @@
-# helloworld
-Solsament un altre repositori
-
-Hola humans 
- Acabo de fer el primer canvi en la primera practica
+Hola,
+Un exemple de com fer servir Python amb Minecraft Pi Edition
+Construir una escala a Minecraft Pi amb Python
